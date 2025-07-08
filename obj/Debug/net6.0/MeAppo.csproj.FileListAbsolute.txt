@@ -1,0 +1,15 @@
+/home/student/MeAppo/bin/Debug/net6.0/MeAppo
+/home/student/MeAppo/bin/Debug/net6.0/MeAppo.deps.json
+/home/student/MeAppo/bin/Debug/net6.0/MeAppo.runtimeconfig.json
+/home/student/MeAppo/bin/Debug/net6.0/MeAppo.dll
+/home/student/MeAppo/bin/Debug/net6.0/MeAppo.pdb
+/home/student/MeAppo/obj/Debug/net6.0/MeAppo.csproj.AssemblyReference.cache
+/home/student/MeAppo/obj/Debug/net6.0/MeAppo.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/MeAppo/obj/Debug/net6.0/MeAppo.AssemblyInfoInputs.cache
+/home/student/MeAppo/obj/Debug/net6.0/MeAppo.AssemblyInfo.cs
+/home/student/MeAppo/obj/Debug/net6.0/MeAppo.csproj.CoreCompileInputs.cache
+/home/student/MeAppo/obj/Debug/net6.0/MeAppo.dll
+/home/student/MeAppo/obj/Debug/net6.0/refint/MeAppo.dll
+/home/student/MeAppo/obj/Debug/net6.0/MeAppo.pdb
+/home/student/MeAppo/obj/Debug/net6.0/MeAppo.genruntimeconfig.cache
+/home/student/MeAppo/obj/Debug/net6.0/ref/MeAppo.dll
